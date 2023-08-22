@@ -4,7 +4,7 @@
 
 /**
  * main - Entry point
- *
+ * done by Hellen and Ondigo
  * Return: Always 0
  */
 int main(void)
